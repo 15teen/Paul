@@ -11,13 +11,13 @@ As of right now Paul works like Siri in the sense that you cannot ask questions 
 Command List
 =====
 
-Life
-Universe
-Marijuana/Mary Jane
-Love
-Women
-Sports
-Meth
-World Peace
-Morgan Freeman
-Super Bowl
+* Life
+* Universe
+* Marijuana/Mary Jane
+* Love
+* Women
+* Sports
+* Meth
+* World Peace
+* Morgan Freeman
+* Super Bowl
